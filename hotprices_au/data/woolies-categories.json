@@ -8,8 +8,8 @@
   },
   {
     "id": "1-E5BEE36E_SPECIALS",
-    "search_name": "Fruit & Veg Specials",
-    "description": "Fruit & Veg > Fruit & Veg Specials",
+    "search_name": "Fruit & Veg Specials & Offers",
+    "description": "Fruit & Veg > Fruit & Veg Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/fruit-veg/fruit-veg-specials",
     "code": null
   },
@@ -35,6 +35,13 @@
     "code": "002"
   },
   {
+    "id": "1_4875273",
+    "search_name": "Prepared Vegetables",
+    "description": "Fruit & Veg > Prepared Vegetables",
+    "url": "https://www.woolworths.com.au/shop/browse/fruit-veg/prepared-vegetables",
+    "code": null
+  },
+  {
     "id": "1_1F3EBCB",
     "search_name": "Organic",
     "description": "Fruit & Veg > Organic",
@@ -42,31 +49,17 @@
     "code": "003"
   },
   {
-    "id": "1_DEB537E",
-    "search_name": "Bakery",
-    "description": "Bakery",
-    "url": "https://www.woolworths.com.au/shop/browse/bakery",
-    "code": "442"
-  },
-  {
-    "id": "1_DEB537E_SPECIALS",
-    "search_name": "Bakery Specials",
-    "description": "Bakery > Bakery Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/bakery/bakery-specials",
+    "id": "1_8929F1D",
+    "search_name": "Fresh Herbs, Garlic & Chillies",
+    "description": "Fruit & Veg > Fresh Herbs, Garlic & Chillies",
+    "url": "https://www.woolworths.com.au/shop/browse/fruit-veg/fresh-herbs-garlic-chillies",
     "code": null
   },
   {
-    "id": "1_5402F90",
-    "search_name": "In-Store Bakery",
-    "description": "Bakery > In-Store Bakery",
-    "url": "https://www.woolworths.com.au/shop/browse/bakery/in-store-bakery",
-    "code": null
-  },
-  {
-    "id": "1_62B7AA0",
-    "search_name": "Packaged Bread & Bakery",
-    "description": "Bakery > Packaged Bread & Bakery",
-    "url": "https://www.woolworths.com.au/shop/browse/bakery/packaged-bread-bakery",
+    "id": "1_94DB57C",
+    "search_name": "Snacking",
+    "description": "Fruit & Veg > Snacking",
+    "url": "https://www.woolworths.com.au/shop/browse/fruit-veg/snacking",
     "code": null
   },
   {
@@ -78,8 +71,8 @@
   },
   {
     "id": "1_D5A2236_SPECIALS",
-    "search_name": "Poultry, Meat & Seafood Specials",
-    "description": "Poultry, Meat & Seafood > Poultry, Meat & Seafood Specials",
+    "search_name": "Poultry, Meat & Seafood Specials & Offers",
+    "description": "Poultry, Meat & Seafood > Poultry, Meat & Seafood Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/poultry-meat-seafood-specials",
     "code": null
   },
@@ -105,52 +98,101 @@
     "code": "111"
   },
   {
+    "id": "1_3643AAB",
+    "search_name": "Mince",
+    "description": "Poultry, Meat & Seafood > Mince",
+    "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/mince",
+    "code": null
+  },
+  {
     "id": "1_F3CEF67",
-    "search_name": "BBQ Meat & Seafood",
-    "description": "Poultry, Meat & Seafood > BBQ Meat & Seafood",
-    "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/bbq-meat-seafood",
+    "search_name": "BBQ Meat",
+    "description": "Poultry, Meat & Seafood > BBQ Meat",
+    "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/bbq-meat",
+    "code": null
+  },
+  {
+    "id": "1_073D435",
+    "search_name": "Organic Meat & Poultry",
+    "description": "Poultry, Meat & Seafood > Organic Meat & Poultry",
+    "url": "https://www.woolworths.com.au/shop/browse/poultry-meat-seafood/organic-meat-poultry",
+    "code": null
+  },
+  {
+    "id": "1_8AD6702",
+    "search_name": "Meal Occasions",
+    "description": "Meal Occasions",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions",
+    "code": null
+  },
+  {
+    "id": "1_8AD6702_SPECIALS",
+    "search_name": "Meal Occasions Specials & Offers",
+    "description": "Meal Occasions > Meal Occasions Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/meal-occasions-specials",
+    "code": null
+  },
+  {
+    "id": "1_9B67F16",
+    "search_name": "Pre-prepared",
+    "description": "Meal Occasions > Pre-prepared",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/pre-prepared",
+    "code": null
+  },
+  {
+    "id": "1_694080F",
+    "search_name": "Ready to Cook",
+    "description": "Meal Occasions > Ready to Cook",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/ready-to-cook",
+    "code": null
+  },
+  {
+    "id": "1_C97F586",
+    "search_name": "Ready to Eat",
+    "description": "Meal Occasions > Ready to Eat",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/ready-to-eat",
+    "code": null
+  },
+  {
+    "id": "1_441EB4C",
+    "search_name": "Breakfast",
+    "description": "Meal Occasions > Breakfast",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/breakfast",
+    "code": null
+  },
+  {
+    "id": "1_9212B67",
+    "search_name": "Desserts",
+    "description": "Meal Occasions > Desserts",
+    "url": "https://www.woolworths.com.au/shop/browse/meal-occasions/desserts",
     "code": null
   },
   {
     "id": "1_3151F6F",
-    "search_name": "Deli & Chilled Meals",
-    "description": "Deli & Chilled Meals",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals",
+    "search_name": "Deli",
+    "description": "Deli",
+    "url": "https://www.woolworths.com.au/shop/browse/deli",
     "code": null
   },
   {
     "id": "1_3151F6F_SPECIALS",
-    "search_name": "Deli & Chilled Meals Specials",
-    "description": "Deli & Chilled Meals > Deli & Chilled Meals Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/deli-chilled-meals-specials",
+    "search_name": "Deli Specials & Offers",
+    "description": "Deli > Deli Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specials",
     "code": null
   },
   {
     "id": "1_696F07C",
     "search_name": "Deli Meats",
-    "description": "Deli & Chilled Meals > Deli Meats",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/deli-meats",
+    "description": "Deli > Deli Meats",
+    "url": "https://www.woolworths.com.au/shop/browse/deli/deli-meats",
     "code": null
   },
   {
     "id": "1_CA60E21",
     "search_name": "Deli Specialties",
-    "description": "Deli & Chilled Meals > Deli Specialties",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/deli-specialties",
-    "code": null
-  },
-  {
-    "id": "1_C152362",
-    "search_name": "Ready to Eat Meals",
-    "description": "Deli & Chilled Meals > Ready to Eat Meals",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/ready-to-eat-meals",
-    "code": null
-  },
-  {
-    "id": "1_D24079A",
-    "search_name": "Vegetarian & Vegan",
-    "description": "Deli & Chilled Meals > Vegetarian & Vegan",
-    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/vegetarian-vegan",
+    "description": "Deli > Deli Specialties",
+    "url": "https://www.woolworths.com.au/shop/browse/deli/deli-specialties",
     "code": null
   },
   {
@@ -162,8 +204,8 @@
   },
   {
     "id": "1_6E4F4E4_SPECIALS",
-    "search_name": "Dairy, Eggs & Fridge Specials",
-    "description": "Dairy, Eggs & Fridge > Dairy, Eggs & Fridge Specials",
+    "search_name": "Dairy, Eggs & Fridge Specials & Offers",
+    "description": "Dairy, Eggs & Fridge > Dairy, Eggs & Fridge Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/dairy-eggs-fridge/dairy-eggs-fridge-specials",
     "code": null
   },
@@ -210,13 +252,6 @@
     "code": null
   },
   {
-    "id": "1_626AB17",
-    "search_name": "Ready to Eat Meals",
-    "description": "Dairy, Eggs & Fridge > Ready to Eat Meals",
-    "url": "https://www.woolworths.com.au/shop/browse/dairy-eggs-fridge/ready-to-eat-meals",
-    "code": null
-  },
-  {
     "id": "1_D3D428B",
     "search_name": "Fresh Pasta & Sauces",
     "description": "Dairy, Eggs & Fridge > Fresh Pasta & Sauces",
@@ -238,291 +273,95 @@
     "code": "341"
   },
   {
+    "id": "1_DEB537E",
+    "search_name": "Bakery",
+    "description": "Bakery",
+    "url": "https://www.woolworths.com.au/shop/browse/bakery",
+    "code": "442"
+  },
+  {
+    "id": "1_DEB537E_SPECIALS",
+    "search_name": "Bakery Specials & Offers",
+    "description": "Bakery > Bakery Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/bakery/bakery-specials",
+    "code": null
+  },
+  {
+    "id": "1_5402F90",
+    "search_name": "In-Store Bakery",
+    "description": "Bakery > In-Store Bakery",
+    "url": "https://www.woolworths.com.au/shop/browse/bakery/in-store-bakery",
+    "code": null
+  },
+  {
+    "id": "1_62B7AA0",
+    "search_name": "Packaged Bread & Bakery",
+    "description": "Bakery > Packaged Bread & Bakery",
+    "url": "https://www.woolworths.com.au/shop/browse/bakery/packaged-bread-bakery",
+    "code": null
+  },
+  {
     "id": "1_9E92C35",
-    "search_name": "Lunch",
-    "description": "Lunch",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch",
+    "search_name": "Lunch Box",
+    "description": "Lunch Box",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box",
     "code": null
   },
   {
     "id": "1_9E92C35_SPECIALS",
-    "search_name": "Lunch Specials",
-    "description": "Lunch > Lunch Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/lunch-specials",
+    "search_name": "Lunch Box Specials & Offers",
+    "description": "Lunch Box > Lunch Box Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/lunch-box-specials",
     "code": null
   },
   {
     "id": "1_D4BEAAD",
     "search_name": "Snacks",
-    "description": "Lunch > Snacks",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/snacks",
+    "description": "Lunch Box > Snacks",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/snacks",
     "code": "227"
   },
   {
     "id": "1_8103E97",
     "search_name": "Healthier Lunch Box",
-    "description": "Lunch > Healthier Lunch Box",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/healthier-lunch-box",
+    "description": "Lunch Box > Healthier Lunch Box",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/healthier-lunch-box",
     "code": null
   },
   {
     "id": "1_6ABF565",
     "search_name": "Fruit & Veg",
-    "description": "Lunch > Fruit & Veg",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/fruit-veg",
+    "description": "Lunch Box > Fruit & Veg",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/fruit-veg",
     "code": "003"
   },
   {
     "id": "1_1AEAC5B",
     "search_name": "Drinks",
-    "description": "Lunch > Drinks",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/drinks",
+    "description": "Lunch Box > Drinks",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/drinks",
     "code": "656"
   },
   {
     "id": "1_59841EE",
-    "search_name": "Sandwich Ingredients & Meals",
-    "description": "Lunch > Sandwich Ingredients & Meals",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/sandwich-ingredients-meals",
+    "search_name": "Sandwich Ingredients",
+    "description": "Lunch Box > Sandwich Ingredients",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/sandwich-ingredients",
     "code": null
   },
   {
     "id": "1_D81AFBD",
     "search_name": "Dietary Needs",
-    "description": "Lunch > Dietary Needs",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/dietary-needs",
+    "description": "Lunch Box > Dietary Needs",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/dietary-needs",
     "code": null
   },
   {
     "id": "1_0066DBB",
     "search_name": "Accessories",
-    "description": "Lunch > Accessories",
-    "url": "https://www.woolworths.com.au/shop/browse/lunch/accessories",
+    "description": "Lunch Box > Accessories",
+    "url": "https://www.woolworths.com.au/shop/browse/lunch-box/accessories",
     "code": "10100"
-  },
-  {
-    "id": "1_39FD49C",
-    "search_name": "Pantry",
-    "description": "Pantry",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry",
-    "code": "328"
-  },
-  {
-    "id": "1_39FD49C_SPECIALS",
-    "search_name": "Pantry Specials",
-    "description": "Pantry > Pantry Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/pantry-specials",
-    "code": null
-  },
-  {
-    "id": "1_C7A623D",
-    "search_name": "Breakfast & Spreads",
-    "description": "Pantry > Breakfast & Spreads",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/breakfast-spreads",
-    "code": "330"
-  },
-  {
-    "id": "1_8A702B7",
-    "search_name": "Tea & Coffee",
-    "description": "Pantry > Tea & Coffee",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/tea-coffee",
-    "code": null
-  },
-  {
-    "id": "1_0B44952",
-    "search_name": "Long Life Milk",
-    "description": "Pantry > Long Life Milk",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/long-life-milk",
-    "code": null
-  },
-  {
-    "id": "1_8458E3A",
-    "search_name": "Baking",
-    "description": "Pantry > Baking",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/baking",
-    "code": "334"
-  },
-  {
-    "id": "1_F779C5C",
-    "search_name": "Herbs & Spices",
-    "description": "Pantry > Herbs & Spices",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/herbs-spices",
-    "code": null
-  },
-  {
-    "id": "1_F43CC25",
-    "search_name": "Condiments",
-    "description": "Pantry > Condiments",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/condiments",
-    "code": "335"
-  },
-  {
-    "id": "1_23C59D3",
-    "search_name": "Canned Food & Instant Meals",
-    "description": "Pantry > Canned Food & Instant Meals",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/canned-food-instant-meals",
-    "code": null
-  },
-  {
-    "id": "1_B5F8608",
-    "search_name": "Pasta, Rice & Grains",
-    "description": "Pantry > Pasta, Rice & Grains",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/pasta-rice-grains",
-    "code": null
-  },
-  {
-    "id": "1_83608CE",
-    "search_name": "Cooking Sauces & Recipe Bases",
-    "description": "Pantry > Cooking Sauces & Recipe Bases",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/cooking-sauces-recipe-bases",
-    "code": null
-  },
-  {
-    "id": "1_E216643",
-    "search_name": "Oil & Vinegar",
-    "description": "Pantry > Oil & Vinegar",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/oil-vinegar",
-    "code": null
-  },
-  {
-    "id": "1_53601CD",
-    "search_name": "International Foods",
-    "description": "Pantry > International Foods",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/international-foods",
-    "code": "341"
-  },
-  {
-    "id": "1_69A326C",
-    "search_name": "Desserts",
-    "description": "Pantry > Desserts",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/desserts",
-    "code": "221"
-  },
-  {
-    "id": "1_8755D56",
-    "search_name": "Hampers & Gifting",
-    "description": "Pantry > Hampers & Gifting",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/hampers-gifting",
-    "code": "778"
-  },
-  {
-    "id": "1_D1F92CB",
-    "search_name": "Everyday Market",
-    "description": "Pantry > Everyday Market",
-    "url": "https://www.woolworths.com.au/shop/browse/pantry/everyday-market",
-    "code": "779"
-  },
-  {
-    "id": "1_F229FBE",
-    "search_name": "International Foods",
-    "description": "International Foods",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods",
-    "code": null
-  },
-  {
-    "id": "1_F229FBE_SPECIALS",
-    "search_name": "International Foods Specials",
-    "description": "International Foods > International Foods Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/international-foods-specials",
-    "code": null
-  },
-  {
-    "id": "1_77690B9",
-    "search_name": "Mexican",
-    "description": "International Foods > Mexican",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/mexican",
-    "code": null
-  },
-  {
-    "id": "1_51BC40C",
-    "search_name": "Asian",
-    "description": "International Foods > Asian",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/asian",
-    "code": null
-  },
-  {
-    "id": "1_3568C3F",
-    "search_name": "Indian & South Asian",
-    "description": "International Foods > Indian & South Asian",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/indian-south-asian",
-    "code": null
-  },
-  {
-    "id": "1_E3D6D6E",
-    "search_name": "European, UK & Irish",
-    "description": "International Foods > European, UK & Irish",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/european-uk-irish",
-    "code": null
-  },
-  {
-    "id": "1_EC4F949",
-    "search_name": "Kosher",
-    "description": "International Foods > Kosher",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/kosher",
-    "code": null
-  },
-  {
-    "id": "1_B668BC7",
-    "search_name": "Middle Eastern",
-    "description": "International Foods > Middle Eastern",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/middle-eastern",
-    "code": null
-  },
-  {
-    "id": "1_8D80BA1",
-    "search_name": "New Zealand & South African",
-    "description": "International Foods > New Zealand & South African",
-    "url": "https://www.woolworths.com.au/shop/browse/international-foods/new-zealand-south-african",
-    "code": null
-  },
-  {
-    "id": "1_717445A",
-    "search_name": "Snacks & Confectionery",
-    "description": "Snacks & Confectionery",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery",
-    "code": null
-  },
-  {
-    "id": "1_717445A_SPECIALS",
-    "search_name": "Snacks & Confectionery Specials",
-    "description": "Snacks & Confectionery > Snacks & Confectionery Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/snacks-confectionery-specials",
-    "code": null
-  },
-  {
-    "id": "1_B3139DF",
-    "search_name": "Confectionery",
-    "description": "Snacks & Confectionery > Confectionery",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/confectionery",
-    "code": "340"
-  },
-  {
-    "id": "1_12FABCA",
-    "search_name": "Gum, Mints & Lozenges",
-    "description": "Snacks & Confectionery > Gum, Mints & Lozenges",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/gum-mints-lozenges",
-    "code": null
-  },
-  {
-    "id": "1_3F5B6B6",
-    "search_name": "Chips",
-    "description": "Snacks & Confectionery > Chips",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/chips",
-    "code": "553"
-  },
-  {
-    "id": "1_99CAF0C",
-    "search_name": "Snacks",
-    "description": "Snacks & Confectionery > Snacks",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/snacks",
-    "code": "227"
-  },
-  {
-    "id": "1_6F15A6A",
-    "search_name": "Biscuits & Crackers",
-    "description": "Snacks & Confectionery > Biscuits & Crackers",
-    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/biscuits-crackers",
-    "code": "329"
   },
   {
     "id": "1_ACA2FC2",
@@ -533,8 +372,8 @@
   },
   {
     "id": "1_ACA2FC2_SPECIALS",
-    "search_name": "Freezer Specials",
-    "description": "Freezer > Freezer Specials",
+    "search_name": "Freezer Specials & Offers",
+    "description": "Freezer > Freezer Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/freezer/freezer-specials",
     "code": null
   },
@@ -623,6 +462,223 @@
     "code": null
   },
   {
+    "id": "1_717445A",
+    "search_name": "Snacks & Confectionery",
+    "description": "Snacks & Confectionery",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery",
+    "code": null
+  },
+  {
+    "id": "1_717445A_SPECIALS",
+    "search_name": "Snacks & Confectionery Specials & Offers",
+    "description": "Snacks & Confectionery > Snacks & Confectionery Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/snacks-confectionery-specials",
+    "code": null
+  },
+  {
+    "id": "1_B3139DF",
+    "search_name": "Confectionery",
+    "description": "Snacks & Confectionery > Confectionery",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/confectionery",
+    "code": "340"
+  },
+  {
+    "id": "1_12FABCA",
+    "search_name": "Gum, Mints & Lozenges",
+    "description": "Snacks & Confectionery > Gum, Mints & Lozenges",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/gum-mints-lozenges",
+    "code": null
+  },
+  {
+    "id": "1_3F5B6B6",
+    "search_name": "Chips",
+    "description": "Snacks & Confectionery > Chips",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/chips",
+    "code": "553"
+  },
+  {
+    "id": "1_99CAF0C",
+    "search_name": "Snacks",
+    "description": "Snacks & Confectionery > Snacks",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/snacks",
+    "code": "227"
+  },
+  {
+    "id": "1_6F15A6A",
+    "search_name": "Biscuits & Crackers",
+    "description": "Snacks & Confectionery > Biscuits & Crackers",
+    "url": "https://www.woolworths.com.au/shop/browse/snacks-confectionery/biscuits-crackers",
+    "code": "329"
+  },
+  {
+    "id": "1_39FD49C",
+    "search_name": "Pantry",
+    "description": "Pantry",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry",
+    "code": "328"
+  },
+  {
+    "id": "1_39FD49C_SPECIALS",
+    "search_name": "Pantry Specials & Offers",
+    "description": "Pantry > Pantry Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/pantry-specials",
+    "code": null
+  },
+  {
+    "id": "1_C7A623D",
+    "search_name": "Breakfast & Spreads",
+    "description": "Pantry > Breakfast & Spreads",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/breakfast-spreads",
+    "code": "330"
+  },
+  {
+    "id": "1_EEEE0B7",
+    "search_name": "Muesli Bars & Snack Bars",
+    "description": "Pantry > Muesli Bars & Snack Bars",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/muesli-bars-snack-bars",
+    "code": null
+  },
+  {
+    "id": "1_8A702B7",
+    "search_name": "Tea & Coffee",
+    "description": "Pantry > Tea & Coffee",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/tea-coffee",
+    "code": null
+  },
+  {
+    "id": "1_0B44952",
+    "search_name": "Long Life Milk",
+    "description": "Pantry > Long Life Milk",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/long-life-milk",
+    "code": null
+  },
+  {
+    "id": "1_8458E3A",
+    "search_name": "Baking",
+    "description": "Pantry > Baking",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/baking",
+    "code": "334"
+  },
+  {
+    "id": "1_F779C5C",
+    "search_name": "Herbs & Spices",
+    "description": "Pantry > Herbs & Spices",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/herbs-spices",
+    "code": null
+  },
+  {
+    "id": "1_F43CC25",
+    "search_name": "Condiments",
+    "description": "Pantry > Condiments",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/condiments",
+    "code": "335"
+  },
+  {
+    "id": "1_23C59D3",
+    "search_name": "Canned Food & Instant Meals",
+    "description": "Pantry > Canned Food & Instant Meals",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/canned-food-instant-meals",
+    "code": null
+  },
+  {
+    "id": "1_B5F8608",
+    "search_name": "Pasta, Rice & Grains",
+    "description": "Pantry > Pasta, Rice & Grains",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/pasta-rice-grains",
+    "code": null
+  },
+  {
+    "id": "1_83608CE",
+    "search_name": "Cooking Sauces & Recipe Bases",
+    "description": "Pantry > Cooking Sauces & Recipe Bases",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/cooking-sauces-recipe-bases",
+    "code": null
+  },
+  {
+    "id": "1_E216643",
+    "search_name": "Oil & Vinegar",
+    "description": "Pantry > Oil & Vinegar",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/oil-vinegar",
+    "code": null
+  },
+  {
+    "id": "1_53601CD",
+    "search_name": "International Foods",
+    "description": "Pantry > International Foods",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/international-foods",
+    "code": "341"
+  },
+  {
+    "id": "1_69A326C",
+    "search_name": "Desserts",
+    "description": "Pantry > Desserts",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/desserts",
+    "code": "221"
+  },
+  {
+    "id": "1_F229FBE",
+    "search_name": "International Foods",
+    "description": "International Foods",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods",
+    "code": null
+  },
+  {
+    "id": "1_F229FBE_SPECIALS",
+    "search_name": "International Foods Specials & Offers",
+    "description": "International Foods > International Foods Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/international-foods-specials",
+    "code": null
+  },
+  {
+    "id": "1_77690B9",
+    "search_name": "Mexican",
+    "description": "International Foods > Mexican",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/mexican",
+    "code": null
+  },
+  {
+    "id": "1_51BC40C",
+    "search_name": "Asian",
+    "description": "International Foods > Asian",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/asian",
+    "code": null
+  },
+  {
+    "id": "1_3568C3F",
+    "search_name": "Indian & South Asian",
+    "description": "International Foods > Indian & South Asian",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/indian-south-asian",
+    "code": null
+  },
+  {
+    "id": "1_E3D6D6E",
+    "search_name": "European, UK & Irish",
+    "description": "International Foods > European, UK & Irish",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/european-uk-irish",
+    "code": null
+  },
+  {
+    "id": "1_EC4F949",
+    "search_name": "Kosher",
+    "description": "International Foods > Kosher",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/kosher",
+    "code": null
+  },
+  {
+    "id": "1_B668BC7",
+    "search_name": "Middle Eastern",
+    "description": "International Foods > Middle Eastern",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/middle-eastern",
+    "code": null
+  },
+  {
+    "id": "1_8D80BA1",
+    "search_name": "New Zealand & South African",
+    "description": "International Foods > New Zealand & South African",
+    "url": "https://www.woolworths.com.au/shop/browse/international-foods/new-zealand-south-african",
+    "code": null
+  },
+  {
     "id": "1_5AF3A0A",
     "search_name": "Drinks",
     "description": "Drinks",
@@ -631,8 +687,8 @@
   },
   {
     "id": "1_5AF3A0A_SPECIALS",
-    "search_name": "Drinks Specials",
-    "description": "Drinks > Drinks Specials",
+    "search_name": "Drinks Specials & Offers",
+    "description": "Drinks > Drinks Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/drinks/drinks-specials",
     "code": null
   },
@@ -714,13 +770,6 @@
     "code": null
   },
   {
-    "id": "1_78807A8",
-    "search_name": "Hampers & Gifting",
-    "description": "Drinks > Hampers & Gifting",
-    "url": "https://www.woolworths.com.au/shop/browse/drinks/hampers-gifting",
-    "code": "778"
-  },
-  {
     "id": "1_0E63DB9",
     "search_name": "Everyday Market",
     "description": "Drinks > Everyday Market",
@@ -736,8 +785,8 @@
   },
   {
     "id": "1_8E4DA6F_SPECIALS",
-    "search_name": "Beer, Wine & Spirits Specials",
-    "description": "Beer, Wine & Spirits > Beer, Wine & Spirits Specials",
+    "search_name": "Beer, Wine & Spirits Specials & Offers",
+    "description": "Beer, Wine & Spirits > Beer, Wine & Spirits Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/beer-wine-spirits/beer-wine-spirits-specials",
     "code": "881"
   },
@@ -798,6 +847,132 @@
     "code": "889"
   },
   {
+    "id": "1_8D61DD6",
+    "search_name": "Beauty",
+    "description": "Beauty",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty",
+    "code": null
+  },
+  {
+    "id": "1_8D61DD6_SPECIALS",
+    "search_name": "Beauty Specials & Offers",
+    "description": "Beauty > Beauty Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/beauty-specials",
+    "code": null
+  },
+  {
+    "id": "1_4DEA168",
+    "search_name": "Cosmetics",
+    "description": "Beauty > Cosmetics",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/cosmetics",
+    "code": null
+  },
+  {
+    "id": "1_5F369A0",
+    "search_name": "Beauty Tools & Nails",
+    "description": "Beauty > Beauty Tools & Nails",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/beauty-tools-nails",
+    "code": null
+  },
+  {
+    "id": "1_9FE5A96",
+    "search_name": "Skincare & Body",
+    "description": "Beauty > Skincare & Body",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/skincare-body",
+    "code": null
+  },
+  {
+    "id": "1_9F80E70",
+    "search_name": "Hair Care",
+    "description": "Beauty > Hair Care",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-care",
+    "code": null
+  },
+  {
+    "id": "1_20B7910",
+    "search_name": "Hair Colour",
+    "description": "Beauty > Hair Colour",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/hair-colour",
+    "code": null
+  },
+  {
+    "id": "1_36477B7",
+    "search_name": "Everyday Market",
+    "description": "Beauty > Everyday Market",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty/everyday-market",
+    "code": null
+  },
+  {
+    "id": "1_894D0A8",
+    "search_name": "Personal Care",
+    "description": "Personal Care",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care",
+    "code": "765"
+  },
+  {
+    "id": "1_894D0A8_SPECIALS",
+    "search_name": "Personal Care Specials & Offers",
+    "description": "Personal Care > Personal Care Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/personal-care-specials",
+    "code": null
+  },
+  {
+    "id": "1_8B886DE",
+    "search_name": "Shower, Bath & Body",
+    "description": "Personal Care > Shower, Bath & Body",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/shower-bath-body",
+    "code": null
+  },
+  {
+    "id": "1_098A313",
+    "search_name": "Hair Care",
+    "description": "Personal Care > Hair Care",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/hair-care",
+    "code": "767"
+  },
+  {
+    "id": "1_6DCE3C5",
+    "search_name": "Oral Care",
+    "description": "Personal Care > Oral Care",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/oral-care",
+    "code": null
+  },
+  {
+    "id": "1_DCFD79C",
+    "search_name": "Men's Care",
+    "description": "Personal Care > Men's Care",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/men-s-care",
+    "code": null
+  },
+  {
+    "id": "1_A6EDC50",
+    "search_name": "Period & Continence Care",
+    "description": "Personal Care > Period & Continence Care",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/period-continence-care",
+    "code": "773"
+  },
+  {
+    "id": "1_4290CA1",
+    "search_name": "Women's Hair Removal",
+    "description": "Personal Care > Women's Hair Removal",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/women-s-hair-removal",
+    "code": "777"
+  },
+  {
+    "id": "1_990EF76",
+    "search_name": "Sun Protection",
+    "description": "Personal Care > Sun Protection",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/sun-protection",
+    "code": null
+  },
+  {
+    "id": "1_D771F24",
+    "search_name": "Travel Toiletries & Minis",
+    "description": "Personal Care > Travel Toiletries & Minis",
+    "url": "https://www.woolworths.com.au/shop/browse/personal-care/travel-toiletries-minis",
+    "code": null
+  },
+  {
     "id": "1_9851658",
     "search_name": "Health & Wellness",
     "description": "Health & Wellness",
@@ -806,8 +981,8 @@
   },
   {
     "id": "1_9851658_SPECIALS",
-    "search_name": "Health & Wellness Specials",
-    "description": "Health & Wellness > Health & Wellness Specials",
+    "search_name": "Health & Wellness Specials & Offers",
+    "description": "Health & Wellness > Health & Wellness Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/health-wellness/health-wellness-specials",
     "code": null
   },
@@ -847,95 +1022,74 @@
     "code": "779"
   },
   {
-    "id": "1_894D0A8",
-    "search_name": "Beauty & Personal Care",
-    "description": "Beauty & Personal Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care",
-    "code": "765"
+    "id": "1_2432B58",
+    "search_name": "Cleaning & Maintenance",
+    "description": "Cleaning & Maintenance",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance",
+    "code": "12112"
   },
   {
-    "id": "1_894D0A8_SPECIALS",
-    "search_name": "Beauty & Personal Care Specials",
-    "description": "Beauty & Personal Care > Beauty & Personal Care Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/beauty-personal-care-specials",
+    "id": "1_2432B58_SPECIALS",
+    "search_name": "Cleaning & Maintenance Specials & Offers",
+    "description": "Cleaning & Maintenance > Cleaning & Maintenance Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/cleaning-maintenance-specials",
+    "code": "12113"
+  },
+  {
+    "id": "1_D02A48C",
+    "search_name": "Spring Gardening - while stocks last",
+    "description": "Cleaning & Maintenance > Spring Gardening - while stocks last",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/spring-gardening-while-stocks-last",
     "code": null
   },
   {
-    "id": "1_8B886DE",
-    "search_name": "Shower, Bath & Body",
-    "description": "Beauty & Personal Care > Shower, Bath & Body",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/shower-bath-body",
-    "code": null
+    "id": "1_2F587AA",
+    "search_name": "Laundry",
+    "description": "Cleaning & Maintenance > Laundry",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/laundry",
+    "code": "12114"
   },
   {
-    "id": "1_098A313",
-    "search_name": "Hair Care",
-    "description": "Beauty & Personal Care > Hair Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/hair-care",
-    "code": "767"
+    "id": "1_A2E3843",
+    "search_name": "Kitchen",
+    "description": "Cleaning & Maintenance > Kitchen",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/kitchen",
+    "code": "12115"
   },
   {
-    "id": "1_6DCE3C5",
-    "search_name": "Oral Care",
-    "description": "Beauty & Personal Care > Oral Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/oral-care",
-    "code": null
+    "id": "1_691F830",
+    "search_name": "Toilet Paper, Tissues & Paper Towels",
+    "description": "Cleaning & Maintenance > Toilet Paper, Tissues & Paper Towels",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels",
+    "code": "12116"
   },
   {
-    "id": "1_DCFD79C",
-    "search_name": "Men's Care",
-    "description": "Beauty & Personal Care > Men's Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/men-s-care",
-    "code": null
+    "id": "1_6174AF3",
+    "search_name": "Cleaning Goods",
+    "description": "Cleaning & Maintenance > Cleaning Goods",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/cleaning-goods",
+    "code": "12117"
   },
   {
-    "id": "1_A6EDC50",
-    "search_name": "Period & Continence Care",
-    "description": "Beauty & Personal Care > Period & Continence Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/period-continence-care",
-    "code": "773"
+    "id": "1_AF39A7A",
+    "search_name": "Pest Control",
+    "description": "Cleaning & Maintenance > Pest Control",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/pest-control",
+    "code": "12118"
   },
   {
-    "id": "1_266FCD7",
-    "search_name": "Skin Care",
-    "description": "Beauty & Personal Care > Skin Care",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/skin-care",
-    "code": "771"
+    "id": "1_F364D22",
+    "search_name": "Garden & Outdoors",
+    "description": "Cleaning & Maintenance > Garden & Outdoors",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/garden-outdoors",
+    "code": "12119"
   },
   {
-    "id": "1_4290CA1",
-    "search_name": "Women's Hair Removal",
-    "description": "Beauty & Personal Care > Women's Hair Removal",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/women-s-hair-removal",
-    "code": "777"
-  },
-  {
-    "id": "1_877B999",
-    "search_name": "Cosmetics",
-    "description": "Beauty & Personal Care > Cosmetics",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/cosmetics",
-    "code": "772"
-  },
-  {
-    "id": "1_990EF76",
-    "search_name": "Sun Protection",
-    "description": "Beauty & Personal Care > Sun Protection",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/sun-protection",
-    "code": null
-  },
-  {
-    "id": "1_D771F24",
-    "search_name": "Travel Toiletries & Minis",
-    "description": "Beauty & Personal Care > Travel Toiletries & Minis",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/travel-toiletries-minis",
-    "code": null
-  },
-  {
-    "id": "1_109C8C6",
-    "search_name": "Everyday Market",
-    "description": "Beauty & Personal Care > Everyday Market",
-    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/everyday-market",
-    "code": "779"
+    "id": "1_8AF7215",
+    "search_name": "Hardware",
+    "description": "Cleaning & Maintenance > Hardware",
+    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/hardware",
+    "code": "12120"
   },
   {
     "id": "1_717A94B",
@@ -946,24 +1100,24 @@
   },
   {
     "id": "1_717A94B_SPECIALS",
-    "search_name": "Baby Specials",
-    "description": "Baby > Baby Specials",
+    "search_name": "Baby Specials & Offers",
+    "description": "Baby > Baby Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/baby/baby-specials",
     "code": "1096"
   },
   {
-    "id": "1_6A7D114",
-    "search_name": "Pregnancy Tests",
-    "description": "Baby > Pregnancy Tests",
-    "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-tests",
-    "code": "1097"
+    "id": "1_9834884",
+    "search_name": "Nappies",
+    "description": "Baby > Nappies",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/nappies",
+    "code": "1098"
   },
   {
-    "id": "1_9834884",
-    "search_name": "Nappies & Wipes",
-    "description": "Baby > Nappies & Wipes",
-    "url": "https://www.woolworths.com.au/shop/browse/baby/nappies-wipes",
-    "code": "1098"
+    "id": "1_67E0CDB",
+    "search_name": "Wipes & Changing",
+    "description": "Baby > Wipes & Changing",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/wipes-changing",
+    "code": null
   },
   {
     "id": "1_CDCF6CF",
@@ -973,18 +1127,53 @@
     "code": "1099"
   },
   {
-    "id": "1_F711B70",
-    "search_name": "Baby Accessories",
-    "description": "Baby > Baby Accessories",
-    "url": "https://www.woolworths.com.au/shop/browse/baby/baby-accessories",
-    "code": "10100"
-  },
-  {
     "id": "1_261C240",
     "search_name": "Baby Formula & Toddler Milk",
     "description": "Baby > Baby Formula & Toddler Milk",
     "url": "https://www.woolworths.com.au/shop/browse/baby/baby-formula-toddler-milk",
     "code": "10101"
+  },
+  {
+    "id": "1_EA73E9D",
+    "search_name": "Bath & Skincare",
+    "description": "Baby > Bath & Skincare",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/bath-skincare",
+    "code": null
+  },
+  {
+    "id": "1_F711B70",
+    "search_name": "Bottles & Baby Feeding",
+    "description": "Baby > Bottles & Baby Feeding",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/bottles-baby-feeding",
+    "code": "10100"
+  },
+  {
+    "id": "1_6C80D4E",
+    "search_name": "Health & Safety",
+    "description": "Baby > Health & Safety",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/health-safety",
+    "code": null
+  },
+  {
+    "id": "1_D0D8BA0",
+    "search_name": "Nursery & Sleeping",
+    "description": "Baby > Nursery & Sleeping",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/nursery-sleeping",
+    "code": null
+  },
+  {
+    "id": "1_E07A831",
+    "search_name": "Baby & Toddler Clothing",
+    "description": "Baby > Baby & Toddler Clothing",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/baby-toddler-clothing",
+    "code": null
+  },
+  {
+    "id": "1_07A6F29",
+    "search_name": "Pregnancy Care & Family Planning",
+    "description": "Baby > Pregnancy Care & Family Planning",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-care-family-planning",
+    "code": null
   },
   {
     "id": "1_EE7E479",
@@ -994,6 +1183,13 @@
     "code": "10102"
   },
   {
+    "id": "1_A500F4B",
+    "search_name": "Toys & Playtime",
+    "description": "Baby > Toys & Playtime",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/toys-playtime",
+    "code": null
+  },
+  {
     "id": "1_0BBE46A",
     "search_name": "Baby Travel & Accessories",
     "description": "Baby > Baby Travel & Accessories",
@@ -1001,18 +1197,186 @@
     "code": "10103"
   },
   {
-    "id": "1_13BDEA0",
-    "search_name": "Hampers & Gifting",
-    "description": "Baby > Hampers & Gifting",
-    "url": "https://www.woolworths.com.au/shop/browse/baby/hampers-gifting",
-    "code": "778"
-  },
-  {
     "id": "1_0A21B4E",
     "search_name": "Everyday Market",
     "description": "Baby > Everyday Market",
     "url": "https://www.woolworths.com.au/shop/browse/baby/everyday-market",
     "code": "779"
+  },
+  {
+    "id": "1_61D6FEB",
+    "search_name": "Pet",
+    "description": "Pet",
+    "url": "https://www.woolworths.com.au/shop/browse/pet",
+    "code": "11106"
+  },
+  {
+    "id": "1_61D6FEB_SPECIALS",
+    "search_name": "Pet Specials & Offers",
+    "description": "Pet > Pet Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/pet/pet-specials",
+    "code": "11107"
+  },
+  {
+    "id": "1_1969229",
+    "search_name": "Cat & Kitten",
+    "description": "Pet > Cat & Kitten",
+    "url": "https://www.woolworths.com.au/shop/browse/pet/cat-kitten",
+    "code": "11108"
+  },
+  {
+    "id": "1_EF205FA",
+    "search_name": "Dog & Puppy",
+    "description": "Pet > Dog & Puppy",
+    "url": "https://www.woolworths.com.au/shop/browse/pet/dog-puppy",
+    "code": "11109"
+  },
+  {
+    "id": "1_C7C6294",
+    "search_name": "Birds, Fish & Small Pets",
+    "description": "Pet > Birds, Fish & Small Pets",
+    "url": "https://www.woolworths.com.au/shop/browse/pet/birds-fish-small-pets",
+    "code": "11110"
+  },
+  {
+    "id": "1_01FCE3C",
+    "search_name": "Everyday Market",
+    "description": "Pet > Everyday Market",
+    "url": "https://www.woolworths.com.au/shop/browse/pet/everyday-market",
+    "code": "779"
+  },
+  {
+    "id": "1_A363395",
+    "search_name": "Everyday Market",
+    "description": "Everyday Market",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market",
+    "code": null
+  },
+  {
+    "id": "1_A363395_SPECIALS",
+    "search_name": "Everyday Market Specials & Offers",
+    "description": "Everyday Market > Everyday Market Specials & Offers",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/everyday-market-specials",
+    "code": null
+  },
+  {
+    "id": "1_DFC8665",
+    "search_name": "Appliances",
+    "description": "Everyday Market > Appliances",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/appliances",
+    "code": null
+  },
+  {
+    "id": "1_6B47713",
+    "search_name": "Electronics",
+    "description": "Everyday Market > Electronics",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/electronics",
+    "code": null
+  },
+  {
+    "id": "1_D1F3183",
+    "search_name": "Home Decor & Furniture",
+    "description": "Everyday Market > Home Decor & Furniture",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/home-decor-furniture",
+    "code": null
+  },
+  {
+    "id": "1_796E13F",
+    "search_name": "Kitchen",
+    "description": "Everyday Market > Kitchen",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/kitchen",
+    "code": null
+  },
+  {
+    "id": "1_452ABFC",
+    "search_name": "Sports & Fitness",
+    "description": "Everyday Market > Sports & Fitness",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/sports-fitness",
+    "code": null
+  },
+  {
+    "id": "1_68EAC6E",
+    "search_name": "Toys & Games",
+    "description": "Everyday Market > Toys & Games",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/toys-games",
+    "code": null
+  },
+  {
+    "id": "1_D2077B5",
+    "search_name": "Outdoor Living",
+    "description": "Everyday Market > Outdoor Living",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/outdoor-living",
+    "code": null
+  },
+  {
+    "id": "1_AAABC0C",
+    "search_name": "Luggage & Travel",
+    "description": "Everyday Market > Luggage & Travel",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/luggage-travel",
+    "code": null
+  },
+  {
+    "id": "1_814698E",
+    "search_name": "Manchester & Bedding",
+    "description": "Everyday Market > Manchester & Bedding",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/manchester-bedding",
+    "code": null
+  },
+  {
+    "id": "1_ED8FFEC",
+    "search_name": "Bathroom",
+    "description": "Everyday Market > Bathroom",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/bathroom",
+    "code": null
+  },
+  {
+    "id": "1_8851A42",
+    "search_name": "Cleaning & Maintenance",
+    "description": "Everyday Market > Cleaning & Maintenance",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/cleaning-maintenance",
+    "code": null
+  },
+  {
+    "id": "1_DABB87A",
+    "search_name": "Clothing & Accessories",
+    "description": "Everyday Market > Clothing & Accessories",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/clothing-accessories",
+    "code": null
+  },
+  {
+    "id": "1_E307906",
+    "search_name": "Health & Beauty",
+    "description": "Everyday Market > Health & Beauty",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/health-beauty",
+    "code": null
+  },
+  {
+    "id": "1_D2EC4E0",
+    "search_name": "Pet",
+    "description": "Everyday Market > Pet",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/pet",
+    "code": null
+  },
+  {
+    "id": "1_6D2559C",
+    "search_name": "Baby",
+    "description": "Everyday Market > Baby",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/baby",
+    "code": null
+  },
+  {
+    "id": "1_DEB3C25",
+    "search_name": "Books",
+    "description": "Everyday Market > Books",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/books",
+    "code": null
+  },
+  {
+    "id": "1_CCE0048",
+    "search_name": "Pantry",
+    "description": "Everyday Market > Pantry",
+    "url": "https://www.woolworths.com.au/shop/browse/everyday-market/pantry",
+    "code": null
   },
   {
     "id": "1_B863F57",
@@ -1023,8 +1387,8 @@
   },
   {
     "id": "1_B863F57_SPECIALS",
-    "search_name": "Electronics Specials",
-    "description": "Electronics > Electronics Specials",
+    "search_name": "Electronics Specials & Offers",
+    "description": "Electronics > Electronics Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/electronics/electronics-specials",
     "code": null
   },
@@ -1099,6 +1463,13 @@
     "code": null
   },
   {
+    "id": "1_A8B1CA5",
+    "search_name": "Speakers, Audio & Radio",
+    "description": "Electronics > Speakers, Audio & Radio",
+    "url": "https://www.woolworths.com.au/shop/browse/electronics/speakers-audio-radio",
+    "code": null
+  },
+  {
     "id": "1_DEA3ED5",
     "search_name": "Home & Lifestyle",
     "description": "Home & Lifestyle",
@@ -1107,8 +1478,8 @@
   },
   {
     "id": "1_DEA3ED5_SPECIALS",
-    "search_name": "Home & Lifestyle Specials",
-    "description": "Home & Lifestyle > Home & Lifestyle Specials",
+    "search_name": "Home & Lifestyle Specials & Offers",
+    "description": "Home & Lifestyle > Home & Lifestyle Specials & Offers",
     "url": "https://www.woolworths.com.au/shop/browse/home-lifestyle/home-lifestyle-specials",
     "code": "13126"
   },
@@ -1176,13 +1547,6 @@
     "code": "13135"
   },
   {
-    "id": "1_4F1B1CD",
-    "search_name": "Electronics",
-    "description": "Home & Lifestyle > Electronics",
-    "url": "https://www.woolworths.com.au/shop/browse/home-lifestyle/electronics",
-    "code": "12123"
-  },
-  {
     "id": "1_CAAEDBB",
     "search_name": "Stationery & Office Supplies",
     "description": "Home & Lifestyle > Stationery & Office Supplies",
@@ -1225,13 +1589,6 @@
     "code": "13140"
   },
   {
-    "id": "1_E05EE96",
-    "search_name": "Sport, Fitness & Outdoor Activities",
-    "description": "Home & Lifestyle > Sport, Fitness & Outdoor Activities",
-    "url": "https://www.woolworths.com.au/shop/browse/home-lifestyle/sport-fitness-outdoor-activities",
-    "code": "13142"
-  },
-  {
     "id": "1_F510C0F",
     "search_name": "Everyday Market",
     "description": "Home & Lifestyle > Everyday Market",
@@ -1239,109 +1596,95 @@
     "code": "779"
   },
   {
-    "id": "1_61D6FEB",
-    "search_name": "Pet",
-    "description": "Pet",
-    "url": "https://www.woolworths.com.au/shop/browse/pet",
-    "code": "11106"
+    "id": "1_C152362",
+    "search_name": "Ready to Eat Meals",
+    "description": "Deli & Chilled Meals > Ready to Eat Meals",
+    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/ready-to-eat-meals",
+    "code": null
   },
   {
-    "id": "1_61D6FEB_SPECIALS",
-    "search_name": "Pet Specials",
-    "description": "Pet > Pet Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/pet/pet-specials",
-    "code": "11107"
+    "id": "1_D24079A",
+    "search_name": "Vegetarian & Vegan",
+    "description": "Deli & Chilled Meals > Vegetarian & Vegan",
+    "url": "https://www.woolworths.com.au/shop/browse/deli-chilled-meals/vegetarian-vegan",
+    "code": null
   },
   {
-    "id": "1_1969229",
-    "search_name": "Cat & Kitten",
-    "description": "Pet > Cat & Kitten",
-    "url": "https://www.woolworths.com.au/shop/browse/pet/cat-kitten",
-    "code": "11108"
+    "id": "1_626AB17",
+    "search_name": "Ready to Eat Meals",
+    "description": "Dairy, Eggs & Fridge > Ready to Eat Meals",
+    "url": "https://www.woolworths.com.au/shop/browse/dairy-eggs-fridge/ready-to-eat-meals",
+    "code": null
   },
   {
-    "id": "1_EF205FA",
-    "search_name": "Dog & Puppy",
-    "description": "Pet > Dog & Puppy",
-    "url": "https://www.woolworths.com.au/shop/browse/pet/dog-puppy",
-    "code": "11109"
+    "id": "1_8755D56",
+    "search_name": "Hampers & Gifting",
+    "description": "Pantry > Hampers & Gifting",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/hampers-gifting",
+    "code": "778"
   },
   {
-    "id": "1_C7C6294",
-    "search_name": "Birds, Fish & Small Pets",
-    "description": "Pet > Birds, Fish & Small Pets",
-    "url": "https://www.woolworths.com.au/shop/browse/pet/birds-fish-small-pets",
-    "code": "11110"
-  },
-  {
-    "id": "1_01FCE3C",
+    "id": "1_D1F92CB",
     "search_name": "Everyday Market",
-    "description": "Pet > Everyday Market",
-    "url": "https://www.woolworths.com.au/shop/browse/pet/everyday-market",
+    "description": "Pantry > Everyday Market",
+    "url": "https://www.woolworths.com.au/shop/browse/pantry/everyday-market",
     "code": "779"
   },
   {
-    "id": "1_2432B58",
-    "search_name": "Cleaning & Maintenance",
-    "description": "Cleaning & Maintenance",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance",
-    "code": "12112"
+    "id": "1_78807A8",
+    "search_name": "Hampers & Gifting",
+    "description": "Drinks > Hampers & Gifting",
+    "url": "https://www.woolworths.com.au/shop/browse/drinks/hampers-gifting",
+    "code": "778"
   },
   {
-    "id": "1_2432B58_SPECIALS",
-    "search_name": "Cleaning & Maintenance Specials",
-    "description": "Cleaning & Maintenance > Cleaning & Maintenance Specials",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/cleaning-maintenance-specials",
-    "code": "12113"
+    "id": "1_266FCD7",
+    "search_name": "Skin Care",
+    "description": "Beauty & Personal Care > Skin Care",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/skin-care",
+    "code": "771"
   },
   {
-    "id": "1_2F587AA",
-    "search_name": "Laundry",
-    "description": "Cleaning & Maintenance > Laundry",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/laundry",
-    "code": "12114"
+    "id": "1_877B999",
+    "search_name": "Cosmetics",
+    "description": "Beauty & Personal Care > Cosmetics",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/cosmetics",
+    "code": "772"
   },
   {
-    "id": "1_A2E3843",
-    "search_name": "Kitchen",
-    "description": "Cleaning & Maintenance > Kitchen",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/kitchen",
-    "code": "12115"
+    "id": "1_109C8C6",
+    "search_name": "Everyday Market",
+    "description": "Beauty & Personal Care > Everyday Market",
+    "url": "https://www.woolworths.com.au/shop/browse/beauty-personal-care/everyday-market",
+    "code": "779"
   },
   {
-    "id": "1_691F830",
-    "search_name": "Toilet Paper, Tissues & Paper Towels",
-    "description": "Cleaning & Maintenance > Toilet Paper, Tissues & Paper Towels",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/toilet-paper-tissues-paper-towels",
-    "code": "12116"
+    "id": "1_6A7D114",
+    "search_name": "Pregnancy Tests",
+    "description": "Baby > Pregnancy Tests",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/pregnancy-tests",
+    "code": "1097"
   },
   {
-    "id": "1_6174AF3",
-    "search_name": "Cleaning Goods",
-    "description": "Cleaning & Maintenance > Cleaning Goods",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/cleaning-goods",
-    "code": "12117"
+    "id": "1_13BDEA0",
+    "search_name": "Hampers & Gifting",
+    "description": "Baby > Hampers & Gifting",
+    "url": "https://www.woolworths.com.au/shop/browse/baby/hampers-gifting",
+    "code": "778"
   },
   {
-    "id": "1_AF39A7A",
-    "search_name": "Pest Control",
-    "description": "Cleaning & Maintenance > Pest Control",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/pest-control",
-    "code": "12118"
+    "id": "1_4F1B1CD",
+    "search_name": "Electronics",
+    "description": "Home & Lifestyle > Electronics",
+    "url": "https://www.woolworths.com.au/shop/browse/home-lifestyle/electronics",
+    "code": "12123"
   },
   {
-    "id": "1_F364D22",
-    "search_name": "Garden & Outdoors",
-    "description": "Cleaning & Maintenance > Garden & Outdoors",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/garden-outdoors",
-    "code": "12119"
-  },
-  {
-    "id": "1_8AF7215",
-    "search_name": "Hardware",
-    "description": "Cleaning & Maintenance > Hardware",
-    "url": "https://www.woolworths.com.au/shop/browse/cleaning-maintenance/hardware",
-    "code": "12120"
+    "id": "1_E05EE96",
+    "search_name": "Sport, Fitness & Outdoor Activities",
+    "description": "Home & Lifestyle > Sport, Fitness & Outdoor Activities",
+    "url": "https://www.woolworths.com.au/shop/browse/home-lifestyle/sport-fitness-outdoor-activities",
+    "code": "13142"
   },
   {
     "id": "1_0AA3909",
