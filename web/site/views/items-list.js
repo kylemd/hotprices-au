@@ -62,6 +62,8 @@ class ItemsList extends View {
                         <option value="quantity-asc">${__("ItemsList_Menge aufsteigend")}</option>
                         <option value="quantity-desc">${__("ItemsList_Menge absteigend")}</option>
                         <option value="store-and-name">${__("ItemsList_Kette &amp; Name")}</option>
+                        <option value="discount-asc">${__("ItemsList_Rabatt aufsteigend")}</option>
+                        <option value="discount-desc">${__("ItemsList_Rabatt absteigend")}</option>
                         <option value="name-similarity" x-id="nameSimilarity" disabled>${__("ItemsList_Namensähnlichkeit")}</option>
                     </select>
                 </label>
@@ -203,6 +205,26 @@ class ItemsList extends View {
                 }
 
                 return 0;
+            });
+        } else if (sortType == "discount-asc" || sortType == "discount-desc") {
+            items.sort((a, b) => {
+                // Calculate discount percentage for both items
+                let aDiscount = 0;
+                let bDiscount = 0;
+                
+                if (a.priceHistory.length >= 2) {
+                    const currentPrice = a.priceHistory[0].price;
+                    const prevPrice = a.priceHistory[1].price;
+                    aDiscount = Math.round(((currentPrice - prevPrice) / prevPrice) * 100);
+                }
+                
+                if (b.priceHistory.length >= 2) {
+                    const currentPrice = b.priceHistory[0].price;
+                    const prevPrice = b.priceHistory[1].price;
+                    bDiscount = Math.round(((currentPrice - prevPrice) / prevPrice) * 100);
+                }
+                
+                return sortType == "discount-asc" ? aDiscount - bDiscount : bDiscount - aDiscount;
             });
         } else {
             vectorizeItems(items);
